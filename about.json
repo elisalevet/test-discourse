@@ -1,0 +1,36 @@
+{
+  "name": "zoom-dev-forum",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": "0.17",
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "header-image": "assets/apps.png",
+    "dev20": "assets/dev20.svg",
+    "gh20": "assets/gh20.svg",
+    "ph20": "assets/ph20.svg",
+    "star20": "assets/star20.svg",
+    "yt20": "assets/yt20.svg",
+    "devSummit": "assets/devSummit2024.png",
+    "coding20": "assets/icon_coding.svg",
+    "sms20": "assets/icon_sms.svg"
+  },
+  "color_schemes": {
+    "zm-colors": {
+      "primary": "232333",
+      "secondary": "ffffff",
+      "tertiary": "0E72ED",
+      "quaternary": "0E72ED",
+      "header_primary": "#232333",
+      "highlight": "E7F1FD",
+      "danger": "DE2828",
+      "success": "00A832",
+      "love": "FF5C5C"
+    }
+  },
+  "modifiers": {},
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
